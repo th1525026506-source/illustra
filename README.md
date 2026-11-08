@@ -109,3 +109,4 @@ Every lesson begins with a **short, powerful quote** related to the concept.
 ## 🌍 Vision  
 
 Animal Academy aims to become the **most fun, educational place online**—where every learner is guided by wise, witty animal experts.  
+# illustra
